@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter&display=swap');
+
+*{
+    background-color: black;
+    text-align: center;
+}
+
+.band {
+    list-style:none;
+    margin: 20px;
+    font-size: 25px;
+    background-color: green;
+    color: yellow;
+    padding: 5px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+#list {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Rock Salt', cursive;
+    color: green;
+}
